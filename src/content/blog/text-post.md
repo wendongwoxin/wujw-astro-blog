@@ -1,8 +1,8 @@
 ---
-title: 'Text post'
-description: 'Lorem ipsum dolor sit amet'
-pubDate: 'Jul 08 2026'
-heroImage: '/blog-placeholder-3.jpg'
+title: 'Vue2 vs Vue3: 核心特性对比'
+description: '详细对比Vue2和Vue3的主要区别，帮助开发者快速了解两个版本的不同'
+pubDate: '2024-06-19'
+heroImage: '/images/from-vue2-to-vue3.png'
 ---
 
 ## d
